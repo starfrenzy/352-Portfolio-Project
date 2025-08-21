@@ -1,4 +1,4 @@
-Jessi Frenzel
+Jessi Frenzel | 
 frenzeje@oregonstate.edu
 
 CS 352 Intro to Usability Engineering Portfolio Project 
