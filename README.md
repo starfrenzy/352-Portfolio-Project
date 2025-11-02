@@ -13,4 +13,4 @@ August 13, 2024
 
 BRICKtrack is a prototype app designed by myself and 3 classmates for tracking LEGO sets. It allows you to create a list of the sets you have as well as a shareable wishlist of the sets you'd like. 
 
-The app was created for our course CS 352 - Intro to Usability Engineering at Oregon State University. 
+The app was created for course CS 352 - Intro to Usability Engineering at Oregon State University. 
