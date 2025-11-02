@@ -1,7 +1,7 @@
 Jessi Frenzel | 
 frenzeje@oregonstate.edu
 
-CS 352 Intro to Usability Engineering Portfolio Project 
+CS 352 Intro to Usability Engineering Portfolio Project  
 BRICKtrack App, created on Figma  
 by Jessi Frenzel, Kaushal Shah, Savhanna Beene, & James Beene  
 August 13, 2024
